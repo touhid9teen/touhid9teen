@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Touhidul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/thecodingspacerd-technology-thecodingspace-codingspace-Tgw604MyLJnDtbi4t0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=touhid9teen&label=Profile%20views&color=0e75b6&style=flat" alt="touhid9teen" /> </p>
 
