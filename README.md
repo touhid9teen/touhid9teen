@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Touhidul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-- -> I’m currently learning and working on **React,NextJS,Tailwind CSS.**
+-  I’m currently learning and working on **React,NextJS,Tailwind CSS.**
 
-- -> I’m looking to collaborate on **Open Source Projects.**
+-  I’m looking to collaborate on **Open Source Projects.**
 
 - 📫 How to reach me **toouhidul@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p align="left"><h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/touhid19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="touhid19" height="30" width="40" /></a>
 <a href="https://fb.com/touhid19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="touhid19" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/touhid19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="touhid19" height="30" width="40" /></a>
