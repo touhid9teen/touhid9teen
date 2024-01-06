@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Touhidul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=touhid9teen" alt="touhid9teen" /></a> </p>
-
 - -> I’m currently learning and working on **React,NextJS,Tailwind CSS.**
 
 - -> I’m looking to collaborate on **Open Source Projects.**
