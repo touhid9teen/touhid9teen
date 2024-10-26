@@ -66,6 +66,7 @@
 <hr style="width: 80%; border: 1px solid #4682B4; margin: 40px auto;" />
 
 <div align="center" style="font-family: Georgia, serif; margin: 40px 0;">
-    <p style="font-size: 26px; color: #66ff66;">"The people who are crazy enough to think they can change the world are the ones who do." - Steve Jobs</p>
+    <h1 style="font-size: 16px; color: #66ff66;">"</h1>
+    <p style="font-size: 26px;"><strong>The people who are crazy enough to think they can change the world are the ones who do." - Steve Jobs</strong></p>
     <p style="font-size: 26px; color: #66ff66;">Let's connect and create something extraordinary together!</p>
 </div>
