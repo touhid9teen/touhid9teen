@@ -9,7 +9,7 @@
 
 
 
-## Tech Stack I'hav explored
+## Tech Stack I've explored
 ![Tech Stack](https://skillicons.dev/icons?i=python,linux,c,bash,docker,git,postgres,redis,postman,javascript,github,django,cpp,css,java,matlab,pycharm,react,tailwind,typescript,vscode,yarn,vite,html,MySQL)
 
 
