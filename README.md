@@ -9,5 +9,13 @@
 ![Tech Stack](https://skillicons.dev/icons?i=python,linux,c,bash,docker,git,postgres,redis,postman,javascript,github,django,cpp,css,java,matlab,pycharm,react,tailwind,typescript,vscode,yarn,vite,html,MySQL)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=touhid9teen&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=touhid9teen&layout=donut)
+
+
+
+<details>
+    <summary><h2>My Github Stats</h2></summary>
+    <figure>
+        <img src="https://github-readme-stats.vercel.app/api?username=touhid9teen&hide_border=true&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhid9teen&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
+    </figure> -->
+</details>
