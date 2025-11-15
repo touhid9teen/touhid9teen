@@ -13,9 +13,10 @@
 
 
 <details>
-    <summary><h2>My Github Stats</h2></summary>
+    <summary><span style="font-size: 1.3rem; font-weight: 600;">My Github Stats</span></summary>
     <figure>
         <img src="https://github-readme-stats.vercel.app/api?username=touhid9teen&hide_border=true&theme=transparent" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhid9teen&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
-    </figure> -->
+    </figure>
 </details>
+
